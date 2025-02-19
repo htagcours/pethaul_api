@@ -1,3 +1,9 @@
+.venv/
+.vscode/
+.idea/
+.aws-sam/
+.environ
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,7 +134,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+.environ
 .venv
 env/
 venv/

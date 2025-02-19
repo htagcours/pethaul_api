@@ -1,0 +1,6 @@
+boto3
+pytest
+fastapi[standard]
+pydantic_settings
+mangum
+mistralai
